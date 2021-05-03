@@ -20,11 +20,11 @@
 
     <Preference android:layout="@layout/batset_animation" android:key="batset_animation" />
 
-    <Preference
+   <!-- <Preference
         android:fragment="com.ancient.settings.fragments.SmartChargingSettings"
         android:key="smart_charging_key"
         android:title="@string/smart_charging_title"
-        android:summary="@string/smart_charging_summary" />
+        android:summary="@string/smart_charging_summary" /> -->
 
    <PreferenceCategory
         android:key="blocker"
