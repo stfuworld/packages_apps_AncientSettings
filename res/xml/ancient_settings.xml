@@ -23,7 +23,7 @@
 
     <PreferenceCategory
             android:key="features"
-            android:title="Ancient Features" >
+            android:title="Ancient Stuff" >
 
         <!-- Status Bar -->
         <Preference
